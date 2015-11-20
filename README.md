@@ -28,3 +28,9 @@ TODO:
 2. Fix and add loading methods and reading methods
 
 3. Support more GAX games
+
+CREDITS:
+==============
+-Manfred Linzner (Original development of this engine)
+
+-Hopeless Masquerade (Additional research)
